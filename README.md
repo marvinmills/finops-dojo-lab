@@ -68,5 +68,3 @@ a FinOps practitioner delivers to a PE-backed or growth-stage operator.
 | Infrastructure | Terraform (see `/terraform`) |
 
 ---
-
-## Repository Structure
